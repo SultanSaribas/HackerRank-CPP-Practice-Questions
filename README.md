@@ -14,4 +14,4 @@ My Solutions to HackerRank CPP Practice Questions
 
 
 ## Strings
-1- [Attribute Parser](/Introduction/AttributeParser.cpp)<br>
+1- [Attribute Parser](/Strings/AttributeParser.cpp)<br>
