@@ -3,7 +3,7 @@
 void update(int *a,int *b) {
     int sum=*a+ *b; // *a --> the value of a
    int absoluteDifferenece= (*a > *b) ? (*a - *b) :  (*b - *a) ;
-   *a=sum;
+   *a=sum; 
    *b=absoluteDifferenece;
 }
 
@@ -18,3 +18,8 @@ int main() {
 
     return 0;
 }
+
+//TO access the memory address of val == &val
+//Assign the memory adress of val to a pointer == int *p=&val
+//To access the value stored in the memory address == *p
+//To access the memory address == p
