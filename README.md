@@ -15,5 +15,10 @@ My Solutions to HackerRank CPP Practice Questions
 
 ## Strings
 1- [Attribute Parser](/Strings/AttributeParser.cpp)<br>
-2- [String Stream](/Strings/StringStream.cpp)<br>
-3- [Strings](/Strings/Strings.cpp)<br>
+2- [Strings](/Strings/Strings.cpp)<br>
+3- [String Stream](/Strings/StringStream.cpp)<br>
+
+
+## Classes
+1- [Class](/Classes/Class.cpp)<br>
+2- [Structs](/Classes/Structs.cpp)<br>
