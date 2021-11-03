@@ -19,7 +19,7 @@ int main() {
     return 0;
 }
 
-//TO access the memory address of val == &val
-//Assign the memory adress of val to a pointer == int *p=&val
-//To access the value stored in the memory address == *p
-//To access the memory address == p
+//TO access the memory address of val ==> &val
+//Assign the memory adress of val to a pointer ==> int *p=&val
+//To access the value stored in the memory address ==> *p
+//To access the memory address ==> p
