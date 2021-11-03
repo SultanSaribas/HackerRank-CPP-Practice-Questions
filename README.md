@@ -10,8 +10,9 @@ My Solutions to HackerRank CPP Practice Questions
 6- [Hello World](/Introduction/HelloWorld.cpp)<br>
 7- [Input and Output](/Introduction/InputNOutput.cpp)<br>
 8- [Pointer](/Introduction/Pointer.cpp)<br>
-9- [Sized Arrays](/Introduction/SizedArrays.cpp)<br>
+9- [Variable Sized Arrays](/Introduction/VariableSizedArrays.cpp)<br>
 
 
 ## Strings
 1- [Attribute Parser](/Strings/AttributeParser.cpp)<br>
+2- [String Stream](/Strings/StringStream.cpp)<br>
