@@ -1,0 +1,26 @@
+#include <cmath>
+#include <cstdio>
+#include <vector>
+#include <iostream>
+#include <algorithm>
+using namespace std;
+
+
+int main() {
+    
+    string a, b;
+    cin >> a >> b;
+
+    cout << a.size() << " " << b.size() << endl;
+    cout << a + b << endl;
+
+    char a0, b0;
+    a0= a[0];
+    b0=b[0];
+    a[0]= b0;
+    b[0]=a0;
+
+    cout << a << " " << b << endl;
+
+    return 0;
+}
