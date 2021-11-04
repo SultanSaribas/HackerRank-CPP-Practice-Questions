@@ -21,4 +21,5 @@ My Solutions to HackerRank CPP Practice Questions
 
 ## Classes
 1- [Class](/Classes/Class.cpp)<br>
-2- [Structs](/Classes/Structs.cpp)<br>
+2- [Classes and Objects](/Classes/ClassesAndObjects.cpp)<br>
+3- [Structs](/Classes/Structs.cpp)<br>
